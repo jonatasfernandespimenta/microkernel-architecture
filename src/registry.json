@@ -1,0 +1,17 @@
+{
+  "operations": [
+    {
+      "op": "sum",
+      "name": "Sum"
+    },
+    {
+      "op": "sub",
+      "name": "Subtract"
+    },
+    {
+      "op": "mul",
+      "name": "Multiply"
+    }
+  ],
+  "plugins": ["multiply"]
+}
